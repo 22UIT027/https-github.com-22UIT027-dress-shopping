@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-sec {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.banner-sec leh-banner img {
+    width: 100%;
+}
+
+.title h1 {
+    color: rgb(7, 1, 12);
+    font-size: 40px;
+}
+
+.image img {
+    width: 35%;
+}
+
+.menus {
+    padding: 20px;
+}
+
+.menus ul {
+    text-align: center;
+}
+
+.menus ul li {
+    display: inline-block;
+}
+
+.menus ul li a{
+    text-decoration: none;
+    margin-right: 40px;   
+}
+
+.menus ul li i{
+    margin-right: 5px;
+}
+
+
+.product-img img {
+    width: 100%;
+}
+
+.product-name h3 {
+    margin-top: 10px;
+}
+
+.copyright {
+    background-color: rgb(240, 148, 29);
+    padding: 20px;
+}
+
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+}
